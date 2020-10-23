@@ -1,7 +1,5 @@
 <img width="30%" align="right" alt="tardis" src="https://raw.githubusercontent.com/prolific/prolific/main/assets/tardis.gif" />
 
-### Hi there 👋
-
 ##### 🛠 Tech Stack
 
 - Javascript | PHP 7 | Java | Kotlin | Typescript
