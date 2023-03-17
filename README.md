@@ -2,10 +2,10 @@
 
 ##### 🛠 Tech Stack
 
-- Javascript | PHP 7 | Java | Kotlin | Typescript
-- Node | Laravel | Lumen | Next.js | ExpressJs | knex.js | ObjectionJs
-- MySQL | PostgreSQL | Sqlite
+- Typescript | Javascript | PHP 7 | Java | Kotlin
+- Node | Next.js | ExpressJs | knex.js | ObjectionJs | Laravel | Lumen
 - React | Redux | React Router | HTML | CSS
+- MySQL | PostgreSQL | Sqlite
 - Android App Development [Java + Kotlin]
 - ElasticSearch | Solr | Redis | WebRTC | WebSockets
 - Webpack | Babel | Git | Shopify | SEO
