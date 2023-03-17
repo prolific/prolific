@@ -2,12 +2,13 @@
 
 ##### 🛠 Tech Stack
 
-- Typescript | Javascript | PHP 7 | Java | Kotlin
-- Node | Next.js | ExpressJs | knex.js | ObjectionJs | Laravel | Lumen
+- Typescript | Javascript | PHP 7 & 8 | Java | Kotlin
+- Node | Next.js | ExpressJs | knex.js | ObjectionJs | Apollo | Prisma | Laravel | Lumen
 - React | Redux | React Router | HTML | CSS
 - MySQL | PostgreSQL | Sqlite
 - Android App Development [Java + Kotlin]
-- ElasticSearch | Solr | Redis | WebRTC | WebSockets
+- ElasticSearch | Solr | Redis
+- REST | GraphQL | WebRTC | WebSockets
 - Webpack | Babel | Git | Shopify | SEO
 - Amazon Web Services | Google Cloud | Firebase
 
